@@ -1,2 +1,3 @@
 # hello-world
-tutorial repository
+tutorial
+repository -> master -> branch -> commit
